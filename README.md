@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nimesh</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" alt="coding" width="520" style="border-radius: 20px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimesh-kumarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-kumarasinghe" /> </p>
 
 - 🔭 I’m currently working on **.Net Web API & React Projects**
 
 - 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **Web App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nimesh-kumarasinghe](https://github.com/nimesh-kumarasinghe)
 
