@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **.Net Web API & React Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Web App Development**
 
