@@ -8,15 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimesh-kumarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-kumarasinghe" /> </p>
 
-- 🔭 I’m currently working on **.Net Web API & React Projects**
+- 🔭 I’m currently working on **Web API & React Projects**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👯 I’m looking to collaborate on **Web App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nimesh-kumarasinghe](https://github.com/nimesh-kumarasinghe)
 
-- 💬 Ask me about **.Net Web API, React & SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
