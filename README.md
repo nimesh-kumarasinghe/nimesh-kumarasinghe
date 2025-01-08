@@ -1,10 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Nimesh+Kumarasinghe!;" />
 </h1>
-
+<!-- https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif -->
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" style="border-radius: 20px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
+<img align="right" alt="coding" width="400" style="border-radius: 20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimesh-kumarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-kumarasinghe" /> </p>
 
